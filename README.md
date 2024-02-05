@@ -45,6 +45,12 @@ This project is licensed under the [MIT License](LICENSE).
 
 Contributions are welcome! If you have any ideas or suggestions, please feel free to submit a Pull Request or open an Issue.
 
+ 1.Fork the repository.
+ 2.Create a new branch (git checkout -b feature-branch).
+ 3.Add your questions and answers.
+ 4.Commit your changes (git commit -am 'Add some feature').
+ 5.Push to the branch (git push origin feature-branch).
+ 6.Create a new Pull Request.
 ---
 
 Enjoy using it!
