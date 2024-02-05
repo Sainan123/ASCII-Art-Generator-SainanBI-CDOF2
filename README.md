@@ -9,8 +9,13 @@ This is a simple command-line tool for converting text into ASCII art. It is wri
 
 Ensure you have Python installed on your system. Then, clone this repository and install the required dependencies:
 
+```bash
 git clone https://github.com/Sainan123/ASCII-Art-Generator-SainanBI-CDOF2.git
+
+```bash
 cd ascii-art-generator
+
+```bash
 pip install -r requirements.txt
 
 
@@ -18,6 +23,7 @@ pip install -r requirements.txt
 
 Run the `main.py` file and follow the prompts to input text and choose a font:
 
+```bash
 python main.py
 
 Enter the text you wish to convert at the prompt, then input a font name (or press enter to choose the default font). The program will output the corresponding ASCII art.
@@ -25,6 +31,7 @@ Enter the text you wish to convert at the prompt, then input a font name (or pre
 ## Available Fonts
 
 To see all available fonts, run:
+```bash
 pyfiglet --list_fonts
 
 
