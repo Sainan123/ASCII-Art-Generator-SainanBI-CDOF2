@@ -9,7 +9,7 @@ This is a simple command-line tool for converting text into ASCII art. It is wri
 
 Ensure you have Python installed on your system. Then, clone this repository and install the required dependencies:
 
-git clone https://github.com/yourusername/ascii-art-generator.git
+git clone https://github.com/Sainan123/ASCII-Art-Generator-SainanBI-CDOF2.git
 cd ascii-art-generator
 pip install -r requirements.txt
 
