@@ -11,13 +11,13 @@ Ensure you have Python installed on your system. Then, clone this repository and
 
 ```bash
 git clone https://github.com/Sainan123/ASCII-Art-Generator-SainanBI-CDOF2.git
-
+```
 ```bash
 cd ascii-art-generator
-
+ ```
 ```bash
 pip install -r requirements.txt
-
+ ```
 
 ## Usage
 
@@ -25,7 +25,7 @@ Run the `main.py` file and follow the prompts to input text and choose a font:
 
 ```bash
 python main.py
-
+ ```
 Enter the text you wish to convert at the prompt, then input a font name (or press enter to choose the default font). The program will output the corresponding ASCII art.
 
 ## Available Fonts
@@ -33,7 +33,7 @@ Enter the text you wish to convert at the prompt, then input a font name (or pre
 To see all available fonts, run:
 ```bash
 pyfiglet --list_fonts
-
+ ```
 
 Then, choose any of the font names when running the program.
 
